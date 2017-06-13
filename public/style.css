@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.monster {
+    float: right;
+    color: red;
+}
+
+.health {
+    color: green;
+}
